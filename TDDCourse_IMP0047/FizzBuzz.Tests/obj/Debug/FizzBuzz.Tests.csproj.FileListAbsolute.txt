@@ -2,3 +2,8 @@ C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\bin\
 C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
 C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
 C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\bin\Debug\FizzBuzz.dll
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\bin\Debug\nunit.framework.dll
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\bin\Debug\FizzBuzz.pdb
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\bin\Debug\nunit.framework.xml
