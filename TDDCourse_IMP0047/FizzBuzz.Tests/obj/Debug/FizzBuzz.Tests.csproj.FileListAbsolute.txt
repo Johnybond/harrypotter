@@ -1,0 +1,4 @@
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb

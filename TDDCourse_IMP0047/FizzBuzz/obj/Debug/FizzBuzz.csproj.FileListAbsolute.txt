@@ -1,0 +1,7 @@
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz\bin\Debug\FizzBuzz.dll
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz\bin\Debug\nunit.framework.dll
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz\bin\Debug\nunit.framework.xml
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz\obj\Debug\FizzBuzz.dll
+C:\Curso Desarrollo\GIT\tdd_course_imp0047\TDDCourse_IMP0047\FizzBuzz\obj\Debug\FizzBuzz.pdb
